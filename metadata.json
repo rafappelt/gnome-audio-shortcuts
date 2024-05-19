@@ -1,0 +1,8 @@
+{
+  "name": "Gnome Audio Shortcuts",
+  "description": "Audio shortcuts for GNOME Shell",
+  "uuid": "gnome-audio-shortcuts@appelt.com.br",
+  "shell-version": [
+    "42"
+  ]
+}
